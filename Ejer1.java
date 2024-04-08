@@ -12,6 +12,7 @@ package Tema2;
             System.out.println("x / y = "+ (x/y));
 
         }
-
         //MODF EN LA RAMA1
+
+        //MODF EN LA RAMA2.
     }
